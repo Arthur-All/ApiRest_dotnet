@@ -1,6 +1,6 @@
 <h1>Api Desafio </h1>
 
-- **Project: in progress.
+- Project: in progress.
 
 ### Desafio 
 > Criar uma ApiRestful.
